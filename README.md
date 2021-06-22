@@ -15,3 +15,6 @@ worldGrid[1,2,1] = -1
 worldGrid[1,1,2] = -1
 write("ariba.obj",worldGrid.obj())
 ```
+
+
+in convert_minecraft_schematic.py is an example how to convert minecraft worlds into obj files using mcedit schematics. With mcedit you can export regions as schematics.
