@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+voxelobj/__init__.py
+voxelobj/core.py
+voxelobj.egg-info/PKG-INFO
+voxelobj.egg-info/SOURCES.txt
+voxelobj.egg-info/dependency_links.txt
+voxelobj.egg-info/requires.txt
+voxelobj.egg-info/top_level.txt
